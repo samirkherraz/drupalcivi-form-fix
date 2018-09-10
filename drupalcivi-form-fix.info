@@ -1,0 +1,4 @@
+name = CiviCRM Forms Fix for Drupal
+description = Fix Login Form on CiviCRM Formulars
+core = 7.x
+stylesheets[all][] = fix.css

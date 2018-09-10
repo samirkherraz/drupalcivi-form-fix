@@ -1,0 +1,14 @@
+.page-civicrm-petition-sign #block-user-login,
+.page-civicrm-petition-sign #branding,
+.page-civicrm-profile-create #block-user-login,
+.page-civicrm-profile-create #branding,
+.page-civicrm-profile-edit #block-user-login,
+.page-civicrm-profile-edit #branding,
+.page-civicrm-contribute-transact #block-user-login,
+.page-civicrm-contribute-transact #branding,
+.page-civicrm-event-info #block-user-login,
+.page-civicrm-event-info #branding,
+.page-civicrm-event-register #block-user-login,
+.page-civicrm-event-register #branding {
+    display: none;
+}

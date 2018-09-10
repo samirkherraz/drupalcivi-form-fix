@@ -1,6 +1,6 @@
 # What's this ?
 
-this drupal module allows you to hide authentication forms on public forms civic
+this drupal module allows you to hide authentication forms on public CiviCRM's forms
 
 # Installation:
 

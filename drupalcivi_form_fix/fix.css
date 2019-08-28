@@ -14,3 +14,7 @@
 .page-civicrm-event-register #branding {
     display: none;
 }
+.crm-inline-edit-form > .crm-inline-edit-field label{ 
+    color: #333 !important;
+}
+
